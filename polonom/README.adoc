@@ -1,5 +1,7 @@
 # Polonom Challenge
+
 Challenge verilmiş olan [sorular](./POLONOM_TEKNOLOJİ_MÜLAKAT_SORULARI_2021.pdf).
+
 
 ## 1. Soru çözümü 2 farklı yöntem ile CmakeLists.txt oluşturulmuştır.
 Çözümlerni deneybilmek için GCC/G++ derleyicinin ve cmake kurulu olması lazım.
