@@ -7,6 +7,7 @@ Challenge verilmiş olan [sorular](./POLONOM_TEKNOLOJİ_MÜLAKAT_SORULARI_2021.p
 Hangi çözümü denemek isteseniz cozum_# içinden soru_1 klasör içine CmakeLists.txt dosyayı çıkartmanız lazım.
 
 Terminalden aşakdakı bash komutlarını çalıştırarak çözümleri bakabilirsiniz.
+
 [source,bash]
 ----
 ~$ mkdir build
@@ -19,6 +20,7 @@ Terminalden aşakdakı bash komutlarını çalıştırarak çözümleri bakabili
 ## 1. Soru çözümü hız açısından C de yazılmıştır.
 
 Terminalden aşakdakı bash komutlarını çalıştırarak 2. sorunın çözmünü kontrol edilebilir.
+
 [source,bash]
 ----
 ~$ gcc find_point.c
