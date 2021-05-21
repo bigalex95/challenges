@@ -1,10 +1,10 @@
 # Polonom Challenge
 
-Challenge verilmiş olan [sorular](./POLONOM_TEKNOLOJİ_MÜLAKAT_SORULARI_2021.pdf).
+Challenge verilmiş olan https://github.com/bigalex95/challenges/blob/main/polonom/POLONOM_TEKNOLOJ%C4%B0_M%C3%9CLAKAT_SORULARI_2021.pdf[sorular]
 
 
 ## 1. Soru çözümü 2 farklı yöntem ile CmakeLists.txt oluşturulmuştır.
-Çözümlerni deneybilmek için GCC/G++ derleyicinin ve cmake kurulu olması lazım.
+Çözümlerni deneybilmek için Gcc/G++ derleyicinin ve cmake kurulu olması lazım.
 
 Hangi çözümü denemek isteseniz cozum_# içinden soru_1 klasör içine CmakeLists.txt dosyayı çıkartmanız lazım.
 
