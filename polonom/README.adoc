@@ -20,6 +20,7 @@ Terminalden aşakdakı bash komutlarını çalıştırarak çözümleri bakabili
 ## 1. Soru çözümü hız açısından C de yazılmıştır.
 
 Terminalden aşakdakı bash komutlarını çalıştırarak 2. sorunın çözmünü kontrol edilebilir.
+
 [source,bash]
 ----
 ~$ gcc find_point.c
