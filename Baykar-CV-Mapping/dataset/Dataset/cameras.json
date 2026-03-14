@@ -1,0 +1,92 @@
+{
+    "wf": {
+        "width": 4752.0,
+        "height": 3168.0,
+        "focalLength": 4658.84,
+        "focalLengthX": 4658.84,
+        "focalLengthY": 4658.84,
+        "principalPointX": 2376.0,
+        "principalPointY": 1584.0,
+        "model": "PINHOLE"
+    },
+    "mf00": {
+        "width": 1188.0,
+        "height": 792.0,
+        "focalLength": 9317.65,
+        "focalLengthX": 9317.65,
+        "focalLengthY": 9317.65,
+        "principalPointX": 594.0,
+        "principalPointY": 396.0,
+        "model": "PINHOLE"
+    },
+    "mf01": {
+        "width": 1188.0,
+        "height": 792.0,
+        "focalLength": 9317.65,
+        "focalLengthX": 9317.65,
+        "focalLengthY": 9317.65,
+        "principalPointX": 594.0,
+        "principalPointY": 396.0,
+        "model": "PINHOLE"
+    },
+    "mf02": {
+        "width": 1188.0,
+        "height": 792.0,
+        "focalLength": 9317.65,
+        "focalLengthX": 9317.65,
+        "focalLengthY": 9317.65,
+        "principalPointX": 594.0,
+        "principalPointY": 396.0,
+        "model": "PINHOLE"
+    },
+    "mf03": {
+        "width": 1188.0,
+        "height": 792.0,
+        "focalLength": 9317.65,
+        "focalLengthX": 9317.65,
+        "focalLengthY": 9317.65,
+        "principalPointX": 594.0,
+        "principalPointY": 396.0,
+        "model": "PINHOLE"
+    },
+    "mf04": {
+        "width": 1188.0,
+        "height": 792.0,
+        "focalLength": 9317.65,
+        "focalLengthX": 9317.65,
+        "focalLengthY": 9317.65,
+        "principalPointX": 594.0,
+        "principalPointY": 396.0,
+        "model": "PINHOLE"
+    },
+    "mf05": {
+        "width": 1188.0,
+        "height": 792.0,
+        "focalLength": 9317.65,
+        "focalLengthX": 9317.65,
+        "focalLengthY": 9317.65,
+        "principalPointX": 594.0,
+        "principalPointY": 396.0,
+        "model": "PINHOLE"
+    },
+    "mf06": {
+        "width": 1188.0,
+        "height": 792.0,
+        "focalLength": 9317.65,
+        "focalLengthX": 9317.65,
+        "focalLengthY": 9317.65,
+        "principalPointX": 594.0,
+        "principalPointY": 396.0,
+        "model": "PINHOLE"
+    },
+    "mf07": {
+        "width": 1188.0,
+        "height": 792.0,
+        "focalLength": 9317.65,
+        "focalLengthX": 9317.65,
+        "focalLengthY": 9317.65,
+        "principalPointX": 594.0,
+        "principalPointY": 396.0,
+        "model": "PINHOLE"
+    }
+}
