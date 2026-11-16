@@ -1,6 +1,6 @@
 # Polonom Challenge
 
-Challenge verilmiş olan https://github.com/bigalex95/challenges/blob/main/polonom/POLONOM_TEKNOLOJ%C4%B0_M%C3%9CLAKAT_SORULARI_2021.pdf[sorular]
+Challenge sorularının PDF dosyası (şirkete ait mülakat materyali) bu repoda yer almıyor.
 
 
 ## 1. Soru çözümü 2 farklı yöntem ile CmakeLists.txt oluşturulmuştır.
